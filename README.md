@@ -1,2 +1,0 @@
-# Ecomarket
-Proyecto aplicativo web
